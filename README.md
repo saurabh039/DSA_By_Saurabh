@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
 | [2278-percentage-of-letter-in-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2278-percentage-of-letter-in-string) |
 ## Array
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -25,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
