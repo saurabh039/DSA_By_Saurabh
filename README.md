@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
 | [2278-percentage-of-letter-in-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2278-percentage-of-letter-in-string) |
 ## Array
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
