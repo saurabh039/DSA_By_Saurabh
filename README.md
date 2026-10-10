@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
