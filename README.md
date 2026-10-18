@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
