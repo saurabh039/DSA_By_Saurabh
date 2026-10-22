@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
