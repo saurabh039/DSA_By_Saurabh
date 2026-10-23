@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0540-single-element-in-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0540-single-element-in-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
