@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
 | [2278-percentage-of-letter-in-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2278-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
