@@ -100,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0175-combine-two-tables) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1757-recyclable-and-low-fat-products](https://github.com/saurabh039/DSA_By_Saurabh/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
